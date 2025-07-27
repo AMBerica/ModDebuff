@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "lulzapps - ModDebuff",
+    "description": "Allow mods of forums to be banned from threads in which they are not mods.",
+    "version_id": 1000010,
+    "version_string": "1.0.0 Alpha",
+    "dev": "Adalid Claure",
+    "dev_url": "",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "fa-cat"
+}
